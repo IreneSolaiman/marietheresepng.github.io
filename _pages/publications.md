@@ -17,5 +17,5 @@ author_profile: true
 
 Papers
 ======
-S Mohamed, MT Png, W Isaac, "Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence", 2020.[[paper](https://arxiv.org/abs/2007.04068)]
+S Mohamed, MT Png, W Isaac, "Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence", 2020.  [[paper](https://arxiv.org/abs/2007.04068)]
 
