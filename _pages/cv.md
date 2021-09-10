@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* **Implikit** , Founder
+* **Implikit**, [[website](https://www.implikit.org/)] Founder
   * Nov 2016 - Present
 
 * **United Nations** , Technology Advisor, Secretary  General  High-Level Panel on Digital Cooperation
