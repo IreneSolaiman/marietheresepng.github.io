@@ -11,23 +11,23 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Information, Communication, and Social Sciences, Beneficial AI, University of Oxford, expected 2022**
-* **M.Ed. in Mind, Brain, and Education | Harvard University, 2017**
-* **B.S. in Human Sciences (Biology, Social Sciences, and Statistics) | University of Oxford, 2016**
+* **Ph.D in Information, Communication, and Social Sciences, Beneficial AI**
+  * University of Oxford, expected 2022
+* **M.Ed. in Mind, Brain, and Education**
+  * Harvard University, 2017
+* **B.S. in Human Sciences (Biology, Social Sciences, and Statistics)**
+  * University of Oxford, 2016
 
 Work experience
 ======
-* **Implikit**
+* **Implikit** , Founder
   * Nov 2016 - Present
-  * Founder
 
-* **United Nations**
-  * Jun 2019 - Dec 2019: Technology 
-  * Advisor, Secretary  General  High-Level Panel on Digital Cooperation
+* **United Nations** , Technology Advisor, Secretary  General  High-Level Panel on Digital Cooperation
+  * Jun 2019 - Dec 2019 
   
-* **DeepMind**
+* **DeepMind** , PhD Researcher
   * Sep 2018 -  Feb 2019
-  * PhD Researcher
   
 <!-- Skills
 ======
