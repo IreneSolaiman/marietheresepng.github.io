@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI Ethics expert and PhD candidate at Oxford University's Oxford Internet Institute (OII), earning my DPhil in Information, Communication & the Social Sciences.
+I am an AI Ethics expert and PhD candidate at Oxford University's Oxford Internet Institute (OII), earning my DPhil in Information, Communication & the Social Sciences. I'm also the founder of Implikit.
